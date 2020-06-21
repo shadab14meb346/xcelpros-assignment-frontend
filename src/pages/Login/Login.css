@@ -1,0 +1,22 @@
+.main {
+	width: 60%;
+	margin: 0 auto;
+	max-width: 786px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.heading {
+	color: blue;
+}
+.form > * {
+	margin: 0.5em 0;
+}
+.button {
+	width: 100%;
+	height: 3em;
+	background-color: greenyellow;
+}
+.error {
+	color: red;
+}
